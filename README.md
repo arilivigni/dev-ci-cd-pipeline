@@ -21,7 +21,7 @@
                 - [Add Jenkinsfile to root of repo](#add-jenkinsfile-to-root-of-repo)
                 - [Make changes and commit and push the code to the git server](#make-changes-and-commit-and-push-the-code-to-the-git-server)
     - [Talks and Videos](#talks-and-videos)
-        - [#devconfcz Presentation and Video](#devconfcz-presentation-and-Video)
+        - [#devconfcz Presentation and Video](#devconfcz-presentation-and-video)
         - [Demo Video](#demo-video)
 
 <a class="mk-toclify" id="develop-all-the-things-with-a-dev-ci-cd-pipeline"></a>
