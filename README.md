@@ -178,3 +178,8 @@ node('linch-pin-slave') {
 ````
 $ git push openshift master
 ````
+
+## Talks and Videos
+
+* [#devconfcz Presentation and Video](https://youtu.be/EZwufSsDPDQ?list=PLeU5HlemqUTZo02zSUVp6DWkoJvDJuxUY)
+* [Demo Video](https://www.youtube.com/watch?v=EZwufSsDPDQ)
